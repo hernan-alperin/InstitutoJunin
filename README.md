@@ -2,3 +2,72 @@ InstitutoJunin
 ==============
 
 plataforma web de servicios para elección de timeslots, profesores y aula virtual
+
+minuta 1.  reunión 30/12/14
+
+Asistentes
+----
+-h: Lic. Cs. Computación Hernán Alperin
+
+-Ps: Profs. Instituto Junin, 
+Lic en Sociología?) Martin Cremonte y Matías Cottone
+
+Temas
+----
+
+- puesta al tanto de lo realizado por el programador anterior, Javier: sin documentación Última disponible: mail de Martín del 10/9/14.  Referencia a plataforma exámenes PREGUNTADO
+
+- Análisis de factibilidad de prueba piloto para IPC
+exámen on-line: versión web del simulacro de examen en papel,
+para preparación de exámenes de febrero. 
+Propuesta de asistencia de -h al comienzo curso de apoyo IPC para analizar equipamiento y conocimiento de IT entre los alumnos.
+
+- -Ps refieren a altillo.com para ejemplos de exámenes tomados
+
+- -h explica protocolo de servicios web
+http://servidor/servicio
+
+- propuesta para funcionamiento en dispositivos móviles: iPad/tablet/celular/Kindle
+
+- decisión de documentación de progreso vía threads (hilos) de mail
+
+para hacer
+----
+2DO: -h
+formulario html form action POST datos del examen
+evaluación via php o js
+Ver plataforma web usada (aparentemente .net)
+
+- grafo bipartito entre
+ Cátedra: bibliografía (manual incluido)
+ Documentos elaborados por -Ps
+
+- grafo
+ Materia-programa-unidad-tema, con
+ Documento-capítulo-sección-parrafo
+ keywords (?) (palabras clave)
+
+propuesta para Gustavo:
+----
+
+Sistema Web:
+- Inst. Junín (Aula/Espacio) VIRTUAL
+con 
+ + Sala de Estudios virtual con:
+  * contenidos *PRUEBA PILOTO 2. (pago)*
+  * exámenes para practicar
+   / fotocopias escaneadas
+   / on-line *PRUEBA PILOTO 1. (gratis)* 
+ + UI para cobro de servicio de descarga de documentos
+  de *PRUEBA PILOTO 2.*
+comenzando con la materia IPC
+
+- Aclaración: una vez que el alumno/cliente descarga un documento la única forma de evitar su reproducción en cualquier medio es recurrir a la legislación sobre derechos de autor.
+Por lo que es recomendable incluir aclaración pertinente (Copyright) en el sitio y en cada documento. 
+
+
+workload  
+----
+- reunión: 2hs x 3
+- esta minuta: 1h 
+
